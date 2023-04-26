@@ -1,0 +1,15 @@
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\bin\Debug\StuckInTheMud.exe.config
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\bin\Debug\StuckInTheMud.exe
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\bin\Debug\StuckInTheMud.pdb
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.csprojResolveAssemblyReference.cache
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.csproj.CoreCompileInputs.cache
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.exe
+C:\Users\hzxjhd\Desktop\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.pdb
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\bin\Debug\StuckInTheMud.exe.config
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\bin\Debug\StuckInTheMud.exe
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\bin\Debug\StuckInTheMud.pdb
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.csproj.AssemblyReference.cache
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.csproj.SuggestedBindingRedirects.cache
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.csproj.CoreCompileInputs.cache
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.exe
+C:\Code Projects\Coding II\StuckInTheMud\StuckInTheMud\obj\Debug\StuckInTheMud.pdb
